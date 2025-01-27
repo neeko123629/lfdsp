@@ -1,10 +1,12 @@
 {
-    "hwids": {
-        "76561198960281616": true,  // Пример HWID Steam
-        "unknown": true  // Для тестирования
-    },
     "keys": {
-        "TESTKEY123": true,  // Пример ключа
-        "BLAZEWINGS": true   // Пример ключа
+        "123123": {
+            "hwid": "",
+            "username": "Player1"
+        },
+        "BLAZEWINGS-XXXX-XXXX-2": {
+            "hwid": "76561198960281616",
+            "username": "Player2"
+        }
     }
 }
