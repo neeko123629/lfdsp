@@ -1,1 +1,12 @@
-
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "123123",
+            "hwid": null,
+            "is_admin": true,
+            "key": "123123",
+            "access": true
+        }
+    ]
+}
