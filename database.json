@@ -1,10 +1,10 @@
 {
     "hwids": {
-        "888c3b31": true,
-        "123": true
+        "76561198960281616": true,  // Пример HWID Steam
+        "unknown": true  // Для тестирования
     },
     "keys": {
-        "123": true,
-        "123": true
+        "TESTKEY123": true,  // Пример ключа
+        "BLAZEWINGS": true   // Пример ключа
     }
 }
