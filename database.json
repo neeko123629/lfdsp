@@ -1,10 +1,10 @@
 {
     "hwids": {
         "888c3b31": true,
-        "87654321": true
+        "123": true
     },
     "keys": {
         "123": true,
-        "key2": true
+        "123": true
     }
 }
